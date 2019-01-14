@@ -1,6 +1,6 @@
 = Abeille
 
-(Version master en dev permanent).
+(Version stable du 14/1/2019).
 
 == Plugin pour Jeedom (Gateway ZiGate)
 
